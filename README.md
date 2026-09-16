@@ -76,4 +76,4 @@ docs/             Capture utilisée dans ce README
 
 Loïc Chau, Antoine Collin, Amine Ati, Sarah Yangasa, Kilian Foucault, Paul Féry.
 
-Dépôt maintenu par [Paul Féry](https://github.com/minoche95). Tous droits réservés © 2026.
+Dépôt maintenu par [Paul Féry](https://github.com/mincho95). Tous droits réservés © 2026.
